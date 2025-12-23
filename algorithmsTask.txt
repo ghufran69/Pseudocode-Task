@@ -65,4 +65,11 @@ Task4 :
 -end algorithm 
 
 
-
+Task 5:
+-Take a list of numbers
+-Create a new empty list called new list
+-Look at each number in the original list
+-If the number is not in new list 
+-Add it to new list 
+-Show new list 
+-End Algorithm
