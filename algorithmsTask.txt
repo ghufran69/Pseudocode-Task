@@ -43,5 +43,13 @@ Task2:
 -END IF
 -End Algorithm
 
+Task3:
+-set the first number in the list as a smallest number
+-for each number in list check if the number is lower than smallest update smallest to number
+-end for 
+-return smallest
+-end Algorithm
+
+
 
 
