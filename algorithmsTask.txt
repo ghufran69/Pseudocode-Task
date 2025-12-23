@@ -50,6 +50,19 @@ Task3:
 -return smallest
 -end Algorithm
 
+Task4 :
+-take a list of a number 
+-Set positive Count to 0
+-Set negative Count to 0
+-For each number in the list
+-if the number >0 
+-Increase positive Count by 1
+- else
+-Increase negative Count by 1
+-end if 
+-end for
+-Show positive Count and negative Count as the result
+-end algorithm 
 
 
 
