@@ -35,3 +35,13 @@ Task 1
 -return results of average
 -end algorithm
 
+Task2:
+-IF number mod 2 = 0 THEN
+-Return "Even"
+-ELSE
+-Return "Odd"
+-END IF
+-End Algorithm
+
+
+
