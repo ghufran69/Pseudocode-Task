@@ -24,3 +24,14 @@ ELSE
 Return "Odd"
 END IF
 End Algorithm
+
+
+
+Task 1
+-input all numbers in list
+-sum all the numbers to get total
+-count how many numbers are in the list
+-divide the total by the count to get average
+-return results of average
+-end algorithm
+
