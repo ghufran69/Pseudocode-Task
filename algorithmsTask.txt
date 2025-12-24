@@ -96,3 +96,19 @@ Task 7 :
 -Add all remaining numbers from the other list to MergedList
 - Show MergedList
 -End Algorithm
+
+Task 8:
+-Take a list of numbers
+-Set the first number as the largest
+-Set the second number as the second largest
+-For each remaining number in the list
+ -If the number is greater than the largest
+ -secondLargest = largest
+ -largest = number
+ -Else if the number is smaller than the largest
+  and greater than the secondLargest
+  secondLargest = number
+  End If
+  End For
+  Show the second largest number
+  End Algorithm
