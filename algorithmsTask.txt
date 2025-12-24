@@ -112,3 +112,15 @@ Task 8:
   End For
   Show the second largest number
   End Algorithm
+
+Task 9:
+-Take a string from the user
+-Clean the string (ignore spaces and uppercase letters)
+-Build a new string by reading the original string from the end
+-Compare the two strings
+-If they are the same
+- Show "Palindrome"
+-Else
+-Show "Not a Palindrome"
+-End If
+-End Algorithm
