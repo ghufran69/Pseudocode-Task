@@ -124,3 +124,14 @@ Task 9:
 -Show "Not a Palindrome"
 -End If
 -End Algorithm
+
+Task 10:
+Take a number N
+Create an empty list called Fibonacci
+Add 0 to the list
+ Add 1 to the list
+ While the number of elements in the list is less than N
+       Add (last number + second last number) to the list
+Show the Fibonacci list
+End Algorithm
+
