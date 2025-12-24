@@ -84,3 +84,15 @@ Task 6 :
 -end for
 -show prime list
 - end algorithm
+
+Task 7 :
+-Take the first sorted list
+-Take the second sorted list
+-Create an empty list called MergedList
+-Compare the first number of both lists
+- Add the smaller number to MergedList
+- Move to the next number in that list
+- Repeat the comparison until one list finishes
+-Add all remaining numbers from the other list to MergedList
+- Show MergedList
+-End Algorithm
