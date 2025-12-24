@@ -73,3 +73,14 @@ Task 5:
 -Add it to new list 
 -Show new list 
 -End Algorithm
+
+Task 6 :
+-take a list of number
+-creat new empty list called prime list
+-for each number in list 
+-if the number is divisible only by itself or 1 
+-if yes add number to prime list
+-end if 
+-end for
+-show prime list
+- end algorithm
