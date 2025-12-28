@@ -1,0 +1,5 @@
+task 1 :
+input  : A list of numbers
+variables : sum, count , average ,i
+loop: (Loop to go through all elements in the list and calculate the sum)
+output : The average of all numbers.
