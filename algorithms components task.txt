@@ -36,3 +36,22 @@ Each number is checked individually.
 If Condition:
 if the number is greater than 0 → positive
 else the number is less than 0 → negative
+
+Task5:
+input:A list of numbers (may contain duplicates)
+output:A list with unique values only
+variables: a, uniqueList, i, n
+loop:A loop is required to go through each element in the list.
+Each value is checked to determine whether it is already present in uniqueList.
+if condition:
+The algorithm checks:
+if the current element already exists in uniqueList
+If the element does not exist:
+it is added to uniqueList
+
+If the element exists:
+it is ignored
+
+
+
+
