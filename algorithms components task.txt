@@ -26,3 +26,13 @@ if the current element is smaller than min
 If the condition is true:
 min is updated with the new smaller value.
 
+Task4:
+input: a list of numbers
+output: Count of positive numbers
+Count of negative numbers
+variable: positiveCount, negativeCount, i, n
+loop: A loop is required to iterate through all elements in the list.
+Each number is checked individually.
+If Condition:
+if the number is greater than 0 → positive
+else the number is less than 0 → negative
