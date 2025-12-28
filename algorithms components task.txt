@@ -13,3 +13,16 @@ if number is divisible by 2
 Based on the result:
 If yes → output "Even"
 Else → output "Odd"
+
+
+Task3 :
+input: The input is a list of numbers
+output:The smallest number
+Variables: min, i, n
+loop: A loop is required to go through each element in the list.
+Each element is compared with the current minimum value.
+if condition:
+if the current element is smaller than min
+If the condition is true:
+min is updated with the new smaller value.
+
