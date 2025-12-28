@@ -3,3 +3,13 @@ input  : A list of numbers
 variables : sum, count , average ,i
 loop: (Loop to go through all elements in the list and calculate the sum)
 output : The average of all numbers.
+
+Task2 :
+input: A number
+output:  "Even" or "odd"
+Variables: numbe
+If condition: Used to check divisibility by 2
+if number is divisible by 2
+Based on the result:
+If yes → output "Even"
+Else → output "Odd"
